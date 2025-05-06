@@ -8,3 +8,4 @@ Notes and usage details for Booking-App.
 - clarify the setup steps
 - link the usage section
 - link the usage section
+- link the usage section
