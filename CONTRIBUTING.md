@@ -14,3 +14,4 @@ Notes and usage details for Booking-App.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
