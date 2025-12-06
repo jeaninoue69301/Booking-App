@@ -38,3 +38,4 @@ Notes and usage details for Booking-App.
 - clarify the setup steps
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
